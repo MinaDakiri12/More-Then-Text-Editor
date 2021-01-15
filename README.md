@@ -1,6 +1,6 @@
 # More-Then-Text-Editor
 
-# Contexte du projet
+### Contexte du projet
 Votre entreprise a décidé de créer un freeware « More Then Text Editor » (appelé ci-après « MTTE ») similaire à Notepad++ pour Mac.
 
 Le logiciel a deux version : une version starter contenant des fonctionnalités de base et une version ultimate contenant, en outre des fonctionnalités de la version starter, des fonctionnalités avancées. La version starter est gratuite, alors que la version ultimate nécessite une licence.
